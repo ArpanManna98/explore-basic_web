@@ -48,7 +48,7 @@ class _HomePageState extends State<HomePage> {
                 'EXPLORE',
                 style: TextStyle(
                   color: Colors.blueGrey.shade100,
-                  fontSize: 20,
+                  fontSize: 21,
                   fontFamily: 'Montserrat',
                   fontWeight: FontWeight.w400,
                   letterSpacing: 3,
